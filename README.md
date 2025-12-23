@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 76 */
+/* New Things Every Day — Day 76 */
 /* Generates a daily execution log with a unique metric */
 
 function dailyLog76() {
